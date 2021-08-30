@@ -1,7 +1,7 @@
 {
   "vendor": "hiringcoders202128",
   "name": "leads-list-block",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Bloco de Lista de Leads",
   "description": "Bloco de Lista de Leads",
   "builders": {
