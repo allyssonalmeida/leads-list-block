@@ -1,0 +1,22 @@
+.container{
+    font-family: 'Open Sans';
+}
+
+.tableContainer{
+    border-collapse: collapse;
+}
+
+.tableTitle{
+    text-align: center;
+}
+
+.tableHeadDiv--lista{
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.tableBodyRow:hover{
+    background-color: rgb(250, 250, 250);
+    font-weight: 500;
+    color: #fcc200 ;
+}
